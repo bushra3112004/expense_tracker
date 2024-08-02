@@ -20,7 +20,7 @@ import { Schema,model } from "mongoose";
     },
     user:{
         type:Schema.Types.ObjectId,
-        ref:"User"
+        ref:"User",
     }
  },{
     timestamps:true,
