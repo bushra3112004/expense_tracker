@@ -1,5 +1,4 @@
 .transaction-card {
-
     border: 1px solid #c8c7cd;
     height: 25px;
     margin: 10px 30px;
@@ -10,7 +9,7 @@
 }
 .transaction-card-title{
     margin: 0;
-    font-size: 15px;
+    font-size: 20px;
 }
 .transaction-card-amount {
     position: absolute;
